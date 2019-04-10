@@ -1,2 +1,7 @@
 /node_modules
 package-lock.json
+client/src/App.js
+client/src/components/Cards.js
+client/src/components/layout/Plan.js
+package.json
+*.js

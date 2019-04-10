@@ -31,10 +31,9 @@ class About extends Component {
                     </button>
                   </div>
                 </div>
+                <br />
                 <p class="card-text">
-                  This is a longer card with supporting text below as a natural
-                  lead-in to additional content. This content is a little bit
-                  longer.
+                  <b>Visit a rural village or a big city!</b>
                 </p>
                 <p class="card-text">
                   <small class="text-muted">Last updated 3 mins ago</small>
@@ -56,20 +55,24 @@ class About extends Component {
                   </button>
                   <div class="dropdown-menu dropdown-menu-right">
                     <button class="dropdown-item" type="button">
-                      Urban
+                      Sri Lankan
                     </button>
                     <button class="dropdown-item" type="button">
-                      Village
+                      Indian
                     </button>
                     <button class="dropdown-item" type="button">
-                      Something else here
+                      Europian
+                    </button>
+                    <button class="dropdown-item" type="button">
+                      Italian
+                    </button>
+                    <button class="dropdown-item" type="button">
+                      Chinese
                     </button>
                   </div>
                 </div>
-                <p class="card-text">
-                  This card has supporting text below as a natural lead-in to
-                  additional content.
-                </p>
+                <br />
+                <p class="card-text">Wide Variety of flavours!</p>
                 <p class="card-text">
                   <small class="text-muted">Last updated 3 mins ago</small>
                 </p>
@@ -90,21 +93,24 @@ class About extends Component {
                   </button>
                   <div class="dropdown-menu dropdown-menu-right">
                     <button class="dropdown-item" type="button">
-                      Urban
+                      Advanture
                     </button>
                     <button class="dropdown-item" type="button">
-                      Village
+                      Hiking
                     </button>
                     <button class="dropdown-item" type="button">
-                      Something else here
+                      Swimming
+                    </button>
+                    <button class="dropdown-item" type="button">
+                      Surfing
+                    </button>
+                    <button class="dropdown-item" type="button">
+                      Singing
                     </button>
                   </div>
                 </div>
-                <p class="card-text">
-                  This is a wider card with supporting text below as a natural
-                  lead-in to additional content. This card has even longer
-                  content than the first to show that equal height action.
-                </p>
+                <br />
+                <p class="card-text">Go for a hike or enjoy the sunset!</p>
                 <p class="card-text">
                   <small class="text-muted">Last updated 3 mins ago</small>
                 </p>
@@ -129,21 +135,21 @@ class About extends Component {
                 </button>
                 <div class="dropdown-menu dropdown-menu-right">
                   <button class="dropdown-item" type="button">
-                    Urban
+                    $
                   </button>
                   <button class="dropdown-item" type="button">
-                    Village
+                    $$
                   </button>
                   <button class="dropdown-item" type="button">
-                    Something else here
+                    $$$
+                  </button>
+                  <button class="dropdown-item" type="button">
+                    $$$$
                   </button>
                 </div>
+                <br />
               </div>
-              <p class="card-text">
-                This is a longer card with supporting text below as a natural
-                lead-in to additional content. This content is a little bit
-                longer.
-              </p>
+              <p class="card-text">Best deals for the best price!</p>
               <p class="card-text">
                 <small class="text-muted">Last updated 3 mins ago</small>
               </p>
@@ -164,19 +170,19 @@ class About extends Component {
                 </button>
                 <div class="dropdown-menu dropdown-menu-right">
                   <button class="dropdown-item" type="button">
-                    Urban
+                    Sunny
                   </button>
                   <button class="dropdown-item" type="button">
-                    Village
+                    Cold
                   </button>
                   <button class="dropdown-item" type="button">
-                    Something else here
+                    Modarate
                   </button>
                 </div>
+                <br />
               </div>
               <p class="card-text">
-                This card has supporting text below as a natural lead-in to
-                additional content.
+                Enjoy an evening walk in the hot sun or a misty day!
               </p>
               <p class="card-text">
                 <small class="text-muted">Last updated 3 mins ago</small>
@@ -208,11 +214,7 @@ class About extends Component {
                   </button>
                 </div>
               </div>
-              <p class="card-text">
-                This is a wider card with supporting text below as a natural
-                lead-in to additional content. This card has even longer content
-                than the first to show that equal height action.
-              </p>
+              <p class="card-text">Stay with us to your heart's contents!</p>
               <p class="card-text">
                 <small class="text-muted">Last updated 3 mins ago</small>
               </p>
