@@ -31,3 +31,93 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar {
+  min-height: 90px;
+  background: #27292b;
+  font-size: 20px;
+}
+
+.navbar-brand {
+  font-size: 40px;
+}
+
+.nav-link {
+  font-size: 25px;
+  color: white;
+  margin-left: 20px;
+}
+
+.landing {
+  position: relative;
+  background: url("./img/Quepal.jpg") no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  margin-top: -24px;
+  margin-bottom: -50px;
+  height: 950px;
+}
+
+.landing-inner {
+  padding-top: 80px;
+}
+
+.card-form {
+  opacity: 0.9;
+}
+
+.latest-profiles-img {
+  width: 40px;
+  height: 40px;
+}
+
+.form-control::placeholder {
+  color: #bbb !important;
+}
+
+.image {
+  position: relative;
+  top: -100px;
+  left: 0px;
+}
+
+h1 {
+  position: absolute;
+  top: 670px;
+  left: 450px;
+  color: white;
+}
+
+.btn-xlarge {
+  position: absolute;
+  top: 770px;
+  left: 680px;
+  padding: 25px 68px;
+  font-size: 32px;
+  line-height: normal;
+  background: black;
+}
+
+.about {
+  height: 950px;
+  background-image: url("./img/fb.jpg");
+}
+
+.card-deck {
+  margin-left: 50px;
+  width: 1700px;
+  height: 300px;
+}
+
+.card {
+  margin-top: 60px;
+  width: 100px;
+}
+
+footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
